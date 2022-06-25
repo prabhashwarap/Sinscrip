@@ -1,0 +1,2 @@
+# Sinscrip
+character detection app 
